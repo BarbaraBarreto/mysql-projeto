@@ -26,5 +26,5 @@ Sistema de vendas em MySQL simulando ambiente de produção, com foco em modelag
 ---
 
 ## 👩‍💻 Autora
-Bárbara Barreto  
+Barbara Barreto  
 Analista de Dados / DBA
